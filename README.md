@@ -1,7 +1,9 @@
 # Netflix Data Analysis 📊
 
-This project analyzes Netflix dataset using Google Sheets to extract meaningful insights using Pivot Tables and Data Visualization.
-
+## 📌 Project Overview
+This project explores Netflix content trends using a cleaned dataset. 
+The goal is to analyze content growth, distribution between Movies and TV Shows, 
+and identify the most popular genres using data visualization techniques.
 ---
 
 ## 🔍 Key Insights
