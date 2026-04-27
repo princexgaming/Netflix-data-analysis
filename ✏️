@@ -1,0 +1,28 @@
+# 📊 Netflix Data Analysis Project
+
+## 🔍 Overview
+Analyzed Netflix dataset using Excel and Google Sheets to uncover content trends and insights.
+
+## 📈 Key Insights
+- Movies dominate Netflix content (~70%)
+- Rapid growth in content after 2015
+- Top genres include Drama, Documentaries, and Stand-up Comedy
+
+## 🛠 Tools & Techniques
+- Excel & Google Sheets
+- Data Cleaning
+- Pivot Tables
+- Data Visualization (Bar, Pie, Line Charts)
+
+## 📁 Files Included
+- netflix_titles_CLEANED.csv
+- netflix_titles_CLEANED.xlsx
+- Dashboard screenshots
+
+## 🚀 What I Learned
+- Transforming raw data into insights
+- Importance of data visualization
+- Hands-on experience with pivot tables
+
+## 👤 Author
+Prince
